@@ -1,1 +1,2 @@
-# jerniyacolorflipper.github.io
+A simple color flipper website that can generate all range of colors.....
+You can view it at https://jerniya.github.io/jerniyacolorflipper.github.io/
