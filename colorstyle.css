@@ -2,6 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing:border-box;
+    animation: neon 2s infinite;
 }
 
 .container{
@@ -55,6 +56,29 @@
   #nor,#hex{
       text-decoration: none;
   }
+  
+
+  @keyframes  neon{
+    0%, 15%{
+           background-color:darkgreen ;
+    }
+    20%{
+        background-color:rgb(226, 23, 33) ;
+ }
+
+ 50%{
+    background-color:rgb(248, 157, 248) ;
+}
+
+80%{
+    background-color:rgb(16, 123, 199) ;
+}
+
+100%{
+    background-color:rgb(138, 50, 205) ;
+}
+
+}
   
 
  
